@@ -1,0 +1,6 @@
+C:\Users\Katherin\Desktop\Juego de la vida\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Katherin\Desktop\Juego de la vida\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Katherin\Desktop\Juego de la vida\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Katherin\Desktop\Juego de la vida\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Katherin\Desktop\Juego de la vida\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Katherin\Desktop\Juego de la vida\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
